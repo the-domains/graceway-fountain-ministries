@@ -1,0 +1,28 @@
+name: 'Graceway Fountain Ministries '
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4de66d2c-c588-4b2c-9465-7aad169ab669.jpg
+layout_spectrum: 0.2782046436103194
+typography_spectrum: 0.21131015597781933
+opengraph:
+  type: ''
+  appId: ''
+color:
+  brandColors:
+    - '#3E454C'
+    - '#2185C5'
+    - '#7ECEFD'
+    - '#FFF6E5'
+    - '#FF7F66'
+  brandStrength: 0.6859100059622751
+  lightness: 0.7058833434085672
+  saturation: 0.02327575616472488
+  rhythmicContrast: 0.3018758171003526
+title: ''
+description: ''
+author:
+  name: 'Graceway Fountain Ministries '
+  email: gwfministriesgh@gmail.com
+content_rating:
+  adult: false
+content: []
+github: true
